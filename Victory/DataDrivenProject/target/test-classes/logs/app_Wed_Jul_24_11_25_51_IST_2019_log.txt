@@ -1,0 +1,14 @@
+INFO    2019-07-24 11:25:51,273 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-07-24 11:25:51,276 [main] base.BaseTest  - OR file loaded !!!
+INFO    2019-07-24 11:26:09,715 [main] base.BaseTest  - Clicking on an element : continuebtn_ID
+INFO    2019-07-24 11:26:10,086 [main] base.BaseTest  - Clicking on an element : getDirection_ID
+ERROR   2019-07-24 11:29:34,642 [main] base.BaseTest  - An unknown server-side error occurred while processing the command. Original error: Android bootstrap socket crashed: Error: This socket has been ended by the other party (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 204.54 seconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:48:19 -0700'
+System info: host: 'WKS-205A', ip: '172.29.18.70', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.logicjunction.ljindoorandroidclientia, deviceScreenSize=1080x1920, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=0e4d59bf0d5cc782, platform=LINUX, deviceUDID=0e4d59bf0d5cc782, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, desired={appPackage=com.logicjunction.ljindoorandroidclientia, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, noReset=true, newCommandTimeout=5, BROWSER_NAME=Android, VERSION=6.0.1, platformName=Android, deviceName=Nexus 5}, newCommandTimeout=5, BROWSER_NAME=Android, platformVersion=6.0.1, webStorageEnabled=false, locationContextEnabled=false, VERSION=6.0.1, takesScreenshot=true, javascriptEnabled=true, deviceModel=Nexus 5, platformName=Android, deviceManufacturer=LGE}]
+Session ID: 4d91565f-7a80-450e-b912-154fe8bf4aba
+*** Element info: {Using=id, value=permission_allow_button}
+INFO    2019-07-24 11:29:34,643 [main] base.BaseTest  - Finding an element : findPersonDropDown_Xpath
+INFO    2019-07-24 11:29:34,689 [main] base.BaseTest  - Test execution completed !!!

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="169" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="79" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+      <class name="testcases.Login">
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:testcases.Login@33a10788]" name="doLogin" duration-ms="11" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- testcases.Login -->
+    </test> <!-- LoginTest -->
+    <test name="User Reg Test" duration-ms="2" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+      <class name="testcases.UserReg">
+        <test-method status="PASS" signature="doUserReg()[pri:0, instance:testcases.UserReg@47f37ef1]" name="doUserReg" duration-ms="0" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doUserReg -->
+      </class> <!-- testcases.UserReg -->
+    </test> <!-- User Reg Test -->
+    <test name="First Test" duration-ms="2" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+      <class name="testcases.First">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:testcases.First@1fbc7afb]" name="firstTest" duration-ms="0" started-at="2019-06-09T06:20:25Z" finished-at="2019-06-09T06:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testcases.First -->
+    </test> <!-- First Test -->
+  </suite> <!-- Suite -->
+</testng-results>

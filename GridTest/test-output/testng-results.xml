@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22987" started-at="2019-06-16T06:56:37Z" finished-at="2019-06-16T06:57:00Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="15382" started-at="2019-06-16T06:56:37Z" finished-at="2019-06-16T06:56:53Z">
+      <class name="testcases.TestGoogle">
+        <test-method status="PASS" signature="testWeb(java.lang.String)[pri:0, instance:testcases.TestGoogle@5c3bd550]" name="testWeb" duration-ms="15329" started-at="2019-06-16T06:56:37Z" finished-at="2019-06-16T06:56:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeb -->
+      </class> <!-- testcases.TestGoogle -->
+    </test> <!-- Chrome Test -->
+    <test name="Firefox Test" duration-ms="22974" started-at="2019-06-16T06:56:37Z" finished-at="2019-06-16T06:57:00Z">
+      <class name="testcases.TestGoogle">
+        <test-method status="PASS" signature="testWeb(java.lang.String)[pri:0, instance:testcases.TestGoogle@42dafa95]" name="testWeb" duration-ms="22937" started-at="2019-06-16T06:56:37Z" finished-at="2019-06-16T06:57:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeb -->
+      </class> <!-- testcases.TestGoogle -->
+    </test> <!-- Firefox Test -->
+  </suite> <!-- Suite -->
+</testng-results>

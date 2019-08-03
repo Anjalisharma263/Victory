@@ -1,0 +1,6 @@
+INFO    2019-07-23 18:15:04,939 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-07-23 18:15:04,942 [main] base.BaseTest  - OR file loaded !!!
+INFO    2019-07-23 18:15:24,530 [main] base.BaseTest  - Clicking on an element : continuebtn_ID
+INFO    2019-07-23 18:15:25,113 [main] base.BaseTest  - Clicking on an element : getDirection_ID
+INFO    2019-07-23 18:15:25,113 [main] base.BaseTest  - Clicking on an element : findPersonDropDown_Xpath
+INFO    2019-07-23 18:15:25,172 [main] base.BaseTest  - Test execution completed !!!

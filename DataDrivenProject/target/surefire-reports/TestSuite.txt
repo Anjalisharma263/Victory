@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.728 sec <<< FAILURE! - in TestSuite
+openAccount(testcases.OpenAccountTest)  Time elapsed: 1.302 sec  <<< FAILURE!
+java.lang.AssertionError: Open Account Test failed
+	at org.testng.Assert.fail(Assert.java:96)
+	at testcases.OpenAccountTest.openAccount(OpenAccountTest.java:28)
+

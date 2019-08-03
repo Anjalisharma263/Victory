@@ -1,0 +1,5 @@
+INFO    2019-07-12 12:46:23,115 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-07-12 12:46:23,118 [main] base.BaseTest  - OR file loaded !!!
+INFO    2019-07-12 12:46:33,451 [main] base.BaseTest  - Clicking on an element : continuebtn_Xpath
+INFO    2019-07-12 12:46:33,451 [main] base.BaseTest  - Clicking on an element : getDirection_Xpath
+INFO    2019-07-12 12:46:37,575 [main] base.BaseTest  - Test execution completed !!!

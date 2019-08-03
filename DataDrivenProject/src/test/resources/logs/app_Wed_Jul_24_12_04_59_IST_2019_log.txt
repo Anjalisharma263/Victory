@@ -1,0 +1,30 @@
+INFO    2019-07-24 12:05:08,442 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-07-24 12:05:08,448 [main] base.BaseTest  - OR file loaded !!!
+ERROR   2019-07-24 12:05:55,574 [main] base.BaseTest  - A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:48:19 -0700'
+System info: host: 'WKS-205A', ip: '172.29.18.70', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.logicjunction.ljindoorandroidclientia, deviceScreenSize=1080x1920, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=0e4d59bf0d5cc782, platform=LINUX, deviceUDID=0e4d59bf0d5cc782, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, desired={appPackage=com.logicjunction.ljindoorandroidclientia, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, noReset=true, newCommandTimeout=5, BROWSER_NAME=Android, VERSION=6.0.1, platformName=Android, deviceName=Nexus 5}, newCommandTimeout=5, BROWSER_NAME=Android, platformVersion=6.0.1, webStorageEnabled=false, locationContextEnabled=false, VERSION=6.0.1, takesScreenshot=true, javascriptEnabled=true, deviceModel=Nexus 5, platformName=Android, deviceManufacturer=LGE}]
+Session ID: 30d399c5-2a79-4cf6-83c3-8c0a75afd5ed
+*** Element info: {Using=id, value=yes_btn}
+INFO    2019-07-24 12:05:55,575 [main] base.BaseTest  - Clicking on an element : continuebtn_ID
+ERROR   2019-07-24 12:05:55,587 [main] base.BaseTest  - A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:48:19 -0700'
+System info: host: 'WKS-205A', ip: '172.29.18.70', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.logicjunction.ljindoorandroidclientia, deviceScreenSize=1080x1920, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=0e4d59bf0d5cc782, platform=LINUX, deviceUDID=0e4d59bf0d5cc782, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, desired={appPackage=com.logicjunction.ljindoorandroidclientia, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, noReset=true, newCommandTimeout=5, BROWSER_NAME=Android, VERSION=6.0.1, platformName=Android, deviceName=Nexus 5}, newCommandTimeout=5, BROWSER_NAME=Android, platformVersion=6.0.1, webStorageEnabled=false, locationContextEnabled=false, VERSION=6.0.1, takesScreenshot=true, javascriptEnabled=true, deviceModel=Nexus 5, platformName=Android, deviceManufacturer=LGE}]
+Session ID: 30d399c5-2a79-4cf6-83c3-8c0a75afd5ed
+*** Element info: {Using=id, value=btn_get_directions}
+INFO    2019-07-24 12:05:55,588 [main] base.BaseTest  - Clicking on an element : getDirection_ID
+ERROR   2019-07-24 12:05:55,599 [main] base.BaseTest  - A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:48:19 -0700'
+System info: host: 'WKS-205A', ip: '172.29.18.70', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.logicjunction.ljindoorandroidclientia, deviceScreenSize=1080x1920, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=0e4d59bf0d5cc782, platform=LINUX, deviceUDID=0e4d59bf0d5cc782, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, desired={appPackage=com.logicjunction.ljindoorandroidclientia, appActivity=com.logicjunction.ljindoorandroidclientia.SplashScreenActivity, noReset=true, newCommandTimeout=5, BROWSER_NAME=Android, VERSION=6.0.1, platformName=Android, deviceName=Nexus 5}, newCommandTimeout=5, BROWSER_NAME=Android, platformVersion=6.0.1, webStorageEnabled=false, locationContextEnabled=false, VERSION=6.0.1, takesScreenshot=true, javascriptEnabled=true, deviceModel=Nexus 5, platformName=Android, deviceManufacturer=LGE}]
+Session ID: 30d399c5-2a79-4cf6-83c3-8c0a75afd5ed
+*** Element info: {Using=id, value=permission_allow_button}
+INFO    2019-07-24 12:06:03,143 [main] base.BaseTest  - Finding an element : findPersonDropDown_Xpath
+INFO    2019-07-24 12:06:03,905 [main] base.BaseTest  - Test execution completed !!!

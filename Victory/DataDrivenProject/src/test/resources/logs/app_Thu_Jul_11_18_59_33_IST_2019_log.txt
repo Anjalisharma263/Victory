@@ -1,0 +1,2 @@
+INFO    2019-07-11 18:59:33,200 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-07-11 18:59:33,208 [main] base.BaseTest  - OR file loaded !!!

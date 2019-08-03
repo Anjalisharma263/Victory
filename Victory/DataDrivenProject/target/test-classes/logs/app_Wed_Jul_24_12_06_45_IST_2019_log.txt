@@ -1,0 +1,4 @@
+INFO    2019-07-24 12:06:45,269 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-07-24 12:06:45,273 [main] base.BaseTest  - OR file loaded !!!
+INFO    2019-07-24 12:07:02,876 [main] base.BaseTest  - Clicking on an element : continuebtn_ID
+INFO    2019-07-24 12:07:03,469 [main] base.BaseTest  - Clicking on an element : getDirection_ID

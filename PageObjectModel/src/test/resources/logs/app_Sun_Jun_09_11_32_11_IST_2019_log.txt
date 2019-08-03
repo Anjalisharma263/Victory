@@ -1,0 +1,14 @@
+INFO    2019-06-09 11:32:11,665 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-06-09 11:32:11,667 [main] base.BaseTest  - OR file loaded !!!
+INFO    2019-06-09 11:32:16,087 [main] base.BaseTest  - Chrome Browser launched !!!
+INFO    2019-06-09 11:32:17,818 [main] base.BaseTest  - Navigating to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2019-06-09 11:32:19,603 [main] base.BaseTest  - Database Connection established !!!
+INFO    2019-06-09 11:32:19,775 [main] base.BaseTest  - Clicking on an element : bmlBtn_CSS
+INFO    2019-06-09 11:32:19,871 [main] base.BaseTest  - Finding an element : addCustomerBtn_CSS
+INFO    2019-06-09 11:32:20,006 [main] base.BaseTest  - Clicking on an element : addCustomerBtn_CSS
+INFO    2019-06-09 11:32:20,283 [main] base.BaseTest  - Typing in an Element : firstName_CSS entered value as : Raman
+INFO    2019-06-09 11:32:20,402 [main] base.BaseTest  - Typing in an Element : lastName_CSS entered value as : Arora
+INFO    2019-06-09 11:32:20,542 [main] base.BaseTest  - Typing in an Element : postCode_CSS entered value as : A234324
+INFO    2019-06-09 11:32:20,692 [main] base.BaseTest  - Clicking on an element : addCustomer_CSS
+INFO    2019-06-09 11:32:20,882 [main] base.BaseTest  - Clicking on an element : openAccountBtn_CSS
+INFO    2019-06-09 11:32:26,849 [main] base.BaseTest  - Test execution completed !!!

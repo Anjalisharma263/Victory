@@ -1,0 +1,25 @@
+INFO    2019-06-09 11:28:40,892 [main] base.BaseTest  - Config file loaded !!!
+INFO    2019-06-09 11:28:40,894 [main] base.BaseTest  - OR file loaded !!!
+INFO    2019-06-09 11:28:45,321 [main] base.BaseTest  - Chrome Browser launched !!!
+INFO    2019-06-09 11:28:46,940 [main] base.BaseTest  - Navigating to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2019-06-09 11:28:48,752 [main] base.BaseTest  - Database Connection established !!!
+INFO    2019-06-09 11:28:48,880 [main] base.BaseTest  - Clicking on an element : bmlBtn_CSS
+INFO    2019-06-09 11:28:48,970 [main] base.BaseTest  - Finding an element : addCustomerBtn_CSS
+INFO    2019-06-09 11:28:49,300 [main] base.BaseTest  - Clicking on an element : addCustomerBtn_CSS
+INFO    2019-06-09 11:28:49,591 [main] base.BaseTest  - Typing in an Element : firstName_CSS entered value as : Raman
+INFO    2019-06-09 11:28:49,704 [main] base.BaseTest  - Typing in an Element : lastName_CSS entered value as : Arora
+INFO    2019-06-09 11:28:49,839 [main] base.BaseTest  - Typing in an Element : postCode_CSS entered value as : A234324
+INFO    2019-06-09 11:28:49,993 [main] base.BaseTest  - Clicking on an element : addCustomer_CSS
+INFO    2019-06-09 11:28:50,120 [main] base.BaseTest  - Clicking on an element : openAccountBtn_CSS
+ERROR   2019-06-09 11:29:00,171 [main] base.BaseTest  - no such element: Unable to locate element: {"method":"css selector","selector":"#userSelect"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-3SL4LUB', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\WAY2AU~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51549}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 8cf7f35138d99bde9227a79c335c3159
+*** Element info: {Using=css selector, value=#userSelect}
+INFO    2019-06-09 11:29:01,861 [main] base.BaseTest  - Test execution completed !!!
